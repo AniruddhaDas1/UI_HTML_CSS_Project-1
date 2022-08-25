@@ -47,7 +47,7 @@
 
 ## About The Project
 
-![Project 1: uiproject-1](https://github.com/alokVerma749/ui-project_10/blob/master/10.png)
+![Project 1: uiproject-1](https://github.com/ani294/UI_HTML_CSS_Project-1/blob/main/1.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
